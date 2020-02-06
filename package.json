@@ -1,0 +1,18 @@
+{
+  "name": "ghajini",
+  "version": "1.0.0",
+  "description": "create a single value store/variable and forget the value after timeout",
+  "main": "index.js",
+  "repository": "git@github.com:mohitmayank/ghajini.git",
+  "author": "Mohit <mayank.mohit@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
